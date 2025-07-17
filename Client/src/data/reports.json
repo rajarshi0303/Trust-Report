@@ -1,0 +1,20 @@
+[
+  {
+    "id": "r1",
+    "title": "Market Disruption Forecast Q3",
+    "reportType": "forecast",
+    "confidenceScore": 82,
+    "industry": "Fintech",
+    "summary": "An in-depth outlook on Q3 disruption patterns...",
+    "sources": ["https://source1.com", "https://source2.com"]
+  },
+  {
+    "id": "r2",
+    "title": "Healthcare AI Efficacy Report",
+    "reportType": "analysis",
+    "confidenceScore": 65,
+    "industry": "Healthcare",
+    "summary": "This report evaluates the effectiveness of AI models in diagnostics...",
+    "sources": ["https://medai.com/source", "https://pubmed.com/study"]
+  }
+]

@@ -70,7 +70,7 @@ npm install            # installs frontend dependencies
 This builds initial data with hashed passwords via insertMany() (bypassing middleware):
 ```
 cd server
-node seed.js
+node seed.mjs
 ```
 
 ### 5. Start the Server & Client
